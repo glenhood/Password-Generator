@@ -17,4 +17,4 @@ I created password generator that will generate a password between 8 and 128 cha
 
 Credits-
 www.w3schools.com was used as refrence
-Robert Kurle (tutor) assisted with some design questions
+Robert Kurle (tutor) assisted with if statements
