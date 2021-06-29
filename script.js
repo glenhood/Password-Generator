@@ -57,10 +57,10 @@ function generatePassword() {
     console.log(specialCharMsg);
     if (specialCharMsg === true) {
         console.log('add in special !@#$%^&() characters');
-        alert('Alright, Alight, Alright');
+        alert('Alright, Alright, Alright');
     } else {
         console.log('dont add special !@#$%^&() characters');
-        alert('Alright, Alight, Alright');
+        alert('Alright, Alright, Alright');
     }
 
     var inputValue = {
